@@ -283,29 +283,29 @@ $(document).on("wb-ready.wb", function (event) {
                 return true;
             });
 
-            // Daily average visits & Daily average visits - Month before
-            let daily_average = (data.map(function (d) { return d["Daily average visits"]; }))[0]
-            let daily_average_lastMonth = (data.map(function (d) { return d["Daily average visits - Month before"]; }))[0]
-            document.getElementById('daily-average-visits').innerHTML = formatNumber(daily_average);
-            difference(daily_average, daily_average_lastMonth, "daily-average-visits-change", dict[lang].dateRange[0]);
+            //Internet Request numbers & Request numbers - Month before
+            let req_num = (data.map(function (d) { return d["Request numbers"]; }))[0]
+            let req_num_lastMonth = (data.map(function (d) { return d["Request numbers - Month before"]; }))[0]
+            document.getElementById('req-pub-inter').innerHTML = formatNumber(req_num);
+            difference(req_num, req_num_lastMonth, "req-pub-inter-change", dict[lang].dateRange[0]);
 
-            // Visits & Visits - Month before
-            let total_visits = (data.map(function (d) { return d["Visits"]; }))[0]
-            let total_visits_lastMonth = (data.map(function (d) { return d["Visits - Month before"]; }))[0]
-            document.getElementById('total-visits').innerHTML = formatNumber(total_visits);
-            difference(total_visits, total_visits_lastMonth, "total-visits-change", dict[lang].dateRange[0]);
+            //Internet Crisis related & Crisis related - Month before
+            let crisis_num = (data.map(function (d) { return d["Visits"]; }))[0]
+            let crisis_num_lastMonth = (data.map(function (d) { return d["Visits - Month before"]; }))[0]
+            document.getElementById('crisis-pub-inter').innerHTML = formatNumber(crisis_num);
+            difference(crisis_num, crisis_num_lastMonth, "crisis-pub-inter-change", dict[lang].dateRange[0]);
 
-            // Page Views per Visit & Page Views per Visit
-            let page_views_visit = (data.map(function (d) { return d["Page Views per Visit"]; }))[0]
-            let page_views_visits_lastMonth = (data.map(function (d) { return d["Page Views per Visit - Month before"]; }))[0]
-            document.getElementById('page-views-visits').innerHTML = formatNumber(page_views_visit);
-            difference(page_views_visit, page_views_visits_lastMonth, "page-views-visits-change", dict[lang].dateRange[0]);
+            //Internet Sent late & Sent late - Month before
+            let late_num = (data.map(function (d) { return d["Page Views per Visit"]; }))[0]
+            let late_num_lastMonth = (data.map(function (d) { return d["Page Views per Visit - Month before"]; }))[0]
+            document.getElementById('late-pub-inter').innerHTML = formatNumber(late_num);
+            difference(late_num, late_num_lastMonth, "late-pub-inter-change", dict[lang].dateRange[0]);
 
-            //Daily average page views,Daily average page views - Month before,
-            let page_views = (data.map(function (d) { return d["Daily average page views"]; }))[0]
-            let page_views_lastMonth = (data.map(function (d) { return d["Daily average page views - Month before"]; }))[0]
-            document.getElementById('daily-average-page-views').innerHTML = formatNumber(page_views);
-            difference(page_views, page_views_lastMonth, "daily-average-page-views-change", dict[lang].dateRange[0]);
+            //Internet Team SLA, Internet Team SLA - Month before,
+            let sla_num = (data.map(function (d) { return d["Daily average page views"]; }))[0]
+            let sla_num_lastMonth = (data.map(function (d) { return d["Daily average page views - Month before"]; }))[0]
+            document.getElementById('sla-pub-inter').innerHTML = formatNumber(sla_num);
+            difference(sla_num, sla_num_lastMonth, "sla-pub-inter-change", dict[lang].dateRange[0]);
 
             // Page Views,Page Views - Month before
             let total_page_views = d3.sum(data, function (d) { return d["Page Views"] });
