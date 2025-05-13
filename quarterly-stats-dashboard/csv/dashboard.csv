@@ -1,0 +1,608 @@
+﻿#=================================================================
+# Traffic (updated)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC - EN & FR, Public traffic"
+#=================================================================
+
+
+##############################################
+# Traffic
+##############################################
+,Daily average visits,Daily average visits,Visits,"Feb 1, 2025 - Feb 28, 2025",Page Views,"Feb 1, 2025 - Feb 28, 2025",Page Views per Visit,"Feb 1, 2025 - Feb 28, 2025",Daily average page views,"Feb 1, 2025 - Feb 28, 2025"
+,Daily average visits,"Feb 1, 2025 - Feb 28, 2025",Visits,Visits,Page Views,Page Views,Page Views per Visit,Page Views per Visit,Daily average page views,Daily average page views
+Month,836619.4516129033,812525.5357142857,25935203,22750715,85794477,73417914,3.308031828399415,3.227059633070873,2767563.774193549,2622068.357142857
+2025-03-01,836619.4516129033,812525.5357142857,25935203,22750715,85794477,73417914,3.3080318283994155,3.2270596330708727,2767563.7741935486,2622068.3571428573
+
+
+#=================================================================
+# Mobile (updated)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC - EN & FR, Public traffic"
+#=================================================================
+
+
+##############################################
+# Device types
+##############################################
+,Visits
+Device Type (v4),25967246
+mobile,14408255
+desktop,11146938
+tablet,412053
+
+
+##############################################
+# Top mobile pages (updated)
+##############################################
+,% mobile visits (min 1K visits)
+Page URL (v12),0.553284011944367
+www.canada.ca/en/immigration-refugees-citizenship/campaigns/before-apply-india-hi.html,0.9692307692307692
+www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/renseignements-demandeurs-dasile-ar.html,0.9530456852791879
+www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/information-refugee-claimants-ar.html,0.9405034324942791
+www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/immigration-loans-program/payment-collection.html,0.9363847944142746
+www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/study-permit-fraud/study-permit-fraud-ar.html,0.928169014084507
+
+
+#=================================================================
+# Traffic sources (same)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC - EN & FR, Public traffic"
+#=================================================================
+
+
+##############################################
+# Referrer types
+##############################################
+,,Entries
+Referrer Type,,23127240
+Search Engines,,12545866
+Search Engines,Referring Domain,12545866
+Search Engines,google.com,10698789
+Search Engines,bing.com,730106
+Search Engines,google.ca,558579
+Search Engines,yahoo.com,199085
+Search Engines,google.co.in,82177
+Typed/Bookmarked,,7680693
+Other Web Sites,,2306549
+Social Networks,,594101
+Social Networks,Referring Domain,594101
+Social Networks,facebook.com,243902
+Social Networks,linkedin.com,104542
+Social Networks,lnkd.in,56679
+Social Networks,youtube.com,54894
+Social Networks,t.co,34623
+Hard Drive,,31
+
+
+#=================================================================
+# Top content (same)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC - EN & FR, Public traffic"
+#=================================================================
+
+
+##############################################
+"# Top pages (E/F) "
+##############################################
+,Visits
+Page URL (v12),25935203
+www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html,4000825
+www.canada.ca/en/services/immigration-citizenship.html,2095044
+www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html,1806621
+www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html,1148119
+www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html,1087611
+www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html,1074852
+ircc.canada.ca/english/helpcentre/answer.asp,1065709
+www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html,1018608
+www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/compte.html,885729
+www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html,686979
+
+
+##############################################
+# Top 10 topics on theme page
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,3543249
+Immigration and citizenship,,3543249
+Immigration and citizenship,Activity Map Link,777544
+Immigration and citizenship,My application,327902
+Immigration and citizenship,Immigrate,153702
+Immigration and citizenship,Visit,99584
+Immigration and citizenship,Work,85029
+Immigration and citizenship,Study,53047
+Immigration and citizenship,Citizenship,40421
+Immigration and citizenship,Refugees and asylum,9630
+Immigration and citizenship,Canadians,6297
+Immigration and citizenship,Immigration fraud and scams,1929
+Immigration and citizenship,New immigrants,2
+
+
+##############################################
+# Top visit programs
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,583413
+Visit Canada,,583413
+Visit Canada,Activity Map Link,270174
+Visit Canada,Apply for a visitor visa,185468
+Visit Canada,Apply for an Electronic Travel Authorization (eTA),33866
+Visit Canada,Stay in Canada longer,20644
+Visit Canada,Visitor visas for workers and students,14928
+Visit Canada,Visit your children or grandchildren,8261
+Visit Canada,Visit Canada on business,3536
+Visit Canada,Transit through Canada,3471
+
+
+##############################################
+# Top 10 work programs
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,102762
+Get a work permit,,102762
+Get a work permit,Activity Map Link,31688
+Get a work permit,Temporary workers,15027
+Get a work permit,Caregivers,5638
+Get a work permit,Agricultural workers,2961
+Get a work permit,Work and travel in Canada with International Experience Canada,2926
+Get a work permit,Open work permit for vulnerable foreign workers,1971
+Get a work permit,H-1B visa holder work permit,1053
+Get a work permit,Overnight camp counsellors,672
+Get a work permit,French-speaking workers outside Quebec,666
+Get a work permit,Open work permit for Ukrainian nationals,502
+Get a work permit,open work permit for Hong Kong recent graduates,272
+
+
+##############################################
+# Top 10 immigration programs
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,560410
+Immigrate to Canada,,560410
+Immigrate to Canada,Activity Map Link,362936
+Immigrate to Canada,Express Entry,136149
+Immigrate to Canada,Caregivers,75157
+Immigrate to Canada,Family sponsorship,40051
+Immigrate to Canada,Provincial nominees,35917
+Immigrate to Canada,Atlantic Immigration Program,13415
+Immigrate to Canada,Refugees,13242
+Immigrate to Canada,Start-up visa,11150
+Immigrate to Canada,Quebec-selected skilled workers,9156
+Immigrate to Canada,Francophone immigration,7361
+Immigrate to Canada,Economic Mobility Pathways Pilot,5604
+
+
+##############################################
+# Top 10 study programs
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,152867
+Study in Canada as an international student,,152867
+Study in Canada as an international student,Activity Map Link,128960
+Study in Canada as an international student,Get a study permit,23010
+Study in Canada as an international student,Extend your study permit or restore your status,17781
+Study in Canada as an international student,Sign in to your study permit account,14218
+Study in Canada as an international student,Find out if you need a study permit,11333
+Study in Canada as an international student,"Choosing a school, college or university",6141
+Study in Canada as an international student,IRCC sign in,5171
+Study in Canada as an international student,Sign-in Click,4774
+Study in Canada as an international student,Find a school (designated learning institution),4316
+Study in Canada as an international student,Get a post-graduation work permit,3543
+Study in Canada as an international student,Stay and work in Canada after you graduate,3250
+
+
+#=================================================================
+# Top content (FR)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC - EN & FR, Public traffic"
+#=================================================================
+
+
+##############################################
+# Top topics on theme page (FR)
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,909434
+Immigration et citoyenneté,,909434
+Immigration et citoyenneté,Activity Map Link,134926
+Immigration et citoyenneté,Ma demande,44748
+Immigration et citoyenneté,Immigrer,38591
+Immigration et citoyenneté,Travailler,16613
+Immigration et citoyenneté,Visiter,14911
+Immigration et citoyenneté,Étudier,11669
+Immigration et citoyenneté,Citoyenneté,5240
+Immigration et citoyenneté,Réfugiés et octroi de l’asile,1690
+Immigration et citoyenneté,Canadiens,749
+Immigration et citoyenneté,Fraudes et arnaques en matière d’immigration,361
+Immigration et citoyenneté,"Interdiction de territoire, application de la loi et infractions",354
+
+
+##############################################
+# Top visit programs (FR)
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,97971
+Visiter le Canada,,97971
+Visiter le Canada,Activity Map Link,38140
+Visiter le Canada,Demander un visa de visiteur,25166
+Visiter le Canada,Présenter une demande d’autorisation de voyage électronique (AVE),6214
+Visiter le Canada,Visas de visiteurs pour les travailleurs et les étudiants,2630
+Visiter le Canada,Prolonger votre séjour au Canada,2002
+Visiter le Canada,Rendre visite à vos enfants et petits-enfants,1369
+Visiter le Canada,Visiter le Canada pour affaires,446
+Visiter le Canada,Transiter par le Canada,313
+
+
+##############################################
+# Top 10 immigration programs (FR)
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,130154
+Immigrer au Canada,,130154
+Immigrer au Canada,Activity Map Link,56072
+Immigrer au Canada,Entrée express,25639
+Immigrer au Canada,Candidats des provinces,8609
+Immigrer au Canada,Travailleurs qualifiés sélectionnés par le Québec,5734
+Immigrer au Canada,Parrainage d’un membre de la famille,4785
+Immigrer au Canada,Aides familiaux,4523
+Immigrer au Canada,Programme d’immigration au Canada atlantique,3512
+Immigrer au Canada,Réfugiés,1823
+Immigrer au Canada,Visa pour démarrage d’entreprise,752
+Immigrer au Canada,Voie d’accès de la résidence temporaire à la résidence permanente,517
+Immigrer au Canada,Programme pilote d’immigration dans les communautés rurales et du Nord,178
+
+
+##############################################
+# Top 10 work programs (FR)
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,22007
+Obtenir un permis de travail,,22007
+Obtenir un permis de travail,Activity Map Link,5354
+Obtenir un permis de travail,Travailleurs temporaires,2662
+Obtenir un permis de travail,Travailler et voyager au Canada avec Expérience internationale Canada,623
+Obtenir un permis de travail,Travailleurs d’expression française hors du Québec,585
+Obtenir un permis de travail,Permis de travail ouvert pour les travailleurs étrangers vulnérables,533
+Obtenir un permis de travail,Travailleurs agricoles,479
+Obtenir un permis de travail,Aides familiaux,359
+Obtenir un permis de travail,Permis de travail pour les titulaires de visas H-1B,69
+Obtenir un permis de travail,Permis de travail ouvert pour les nouveaux diplômés de Hong Kong,26
+Obtenir un permis de travail,Permis de travail ouvert pour les ressortissants Ukrainiens,18
+
+
+##############################################
+# Top 10 clicks on Study
+##############################################
+,,Activity Map Link Instances
+Activity Map Page,,45316
+Étudier au Canada à titre d’étudiant étranger,,45316
+Étudier au Canada à titre d’étudiant étranger,Activity Map Link,21722
+Étudier au Canada à titre d’étudiant étranger,Ouvrez une session dans votre compte de demande de permis d’études,7180
+Étudier au Canada à titre d’étudiant étranger,Obtenir un permis d’études,4076
+Étudier au Canada à titre d’étudiant étranger,Vérifiez si vous avez besoin d’un permis d’études,2651
+Étudier au Canada à titre d’étudiant étranger,Trouver un établissement d’enseignement (établissement d’enseignement désigné),2177
+Étudier au Canada à titre d’étudiant étranger,Faire prolonger un permis d’études ou rétablir son statuts,2130
+Étudier au Canada à titre d’étudiant étranger,"Choisir une école, un collège ou une université",1662
+Étudier au Canada à titre d’étudiant étranger,Obtenir un permis de travail postdiplôme,929
+Étudier au Canada à titre d’étudiant étranger,Rester et travailler au Canada après l’obtention de votre diplôme,467
+Étudier au Canada à titre d’étudiant étranger,Travailler pendant ses études,450
+
+
+#=================================================================
+# Task success (last quarter) (no change)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: TSS Survey Data - Reason of Visit - Lead Department (v120c) equals any of IRCC, Survey Data - TSS - Exclude 'I started this survey before I finished my visit', Survey Data - TSS - Exclude testing"
+#=================================================================
+
+
+##############################################
+# Effectiveness/Ease/Satisfaction/Completion
+##############################################
+,Survey Data - Effectiveness - % able to complete the purpose of their visit,Survey Data - Effectiveness - % able to complete the purpose of their visit,Survey Data - Ease - % who said it was easy or very easy to do what they needed to do online,Survey Data - Ease - % who said it was easy or very easy to do what they needed to do online,Survey Data - Satisfaction - % satisfied or very satisfied,Survey Data - Satisfaction - % satisfied or very satisfied,Survey Data - GC Task Success Survey Completed / Données du sondage - Sondage sur la réussite de tâches du GC terminé (e120),Survey Data - GC Task Success Survey Completed / Données du sondage - Sondage sur la réussite de tâches du GC terminé (e120)
+,Survey Data - TSS - Institution (Sampling),"Feb 1, 2025 - Feb 28, 2025",Survey Data - TSS - Institution (Sampling),"Prior month: Feb 1, 2025 - Feb 28, 2025",Survey Data - TSS - Institution (Sampling),"Feb 1, 2025 - Feb 28, 2025",Survey Data - TSS - Task (Sampling),"Feb 1, 2025 - Feb 28, 2025"
+,Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Task (Sampling),Survey Data - TSS - Task (Sampling)
+Month,0.7864767238930152,0.7884659852934376,0.6403668980072243,0.6423253017620126,0.6199115223832136,0.6249826573555936,24639,21623
+2025-03-01,0.7864767238930152,0.7884659852934376,0.6403668980072243,0.6423253017620126,0.6199115223832136,0.6249826573555936,24639,21623
+
+
+##############################################
+# Best and worst tasks
+##############################################
+,Survey Data - TSS - Task (Sampling),Survey Data - TSS - Task (Sampling),Survey Data - TSS - Task (Sampling),Survey Data - TSS - Task (Sampling)
+,TSS task completion % (min 384 responses),Survey Data - Ease - % who said it was easy or very easy to do what they needed to do online,Survey Data - Satisfaction - % satisfied or very satisfied,Survey Data - GC Task Success Survey Completed / Données du sondage - Sondage sur la réussite de tâches du GC terminé (e120)
+TSS Survey Data - Reason of Visit - Task (v120c),0.7864767238930152,,,24639
+Apply for an Electronic Travel Authorization (eTA),0.8477211796246649,0.6804289544235925,0.6498659517426274,1865
+Check processing times,0.8416,0.7184,0.5968,625
+Apply for a work permit,0.8180970149253731,0.6397388059701492,0.6253731343283582,5360
+Apply for a visitor visa to Canada,0.8075862068965517,0.6331034482758621,0.6279310344827587,2900
+Apply for a study permit,0.8022892819979188,0.6004162330905307,0.6940686784599376,961
+Check your application status,0.7984574111334675,0.6297786720321932,0.5747820254862508,2982
+Apply for Canadian citizenship,0.7820224719101123,0.6719101123595506,0.6704119850187266,1335
+Immigrate through Express Entry,0.7701238390092879,0.6683436532507739,0.6462848297213623,2584
+Renew a Canadian passport,0.7682656826568266,0.6789667896678967,0.6287822878228783,1355
+Immigrate as a provincial nominee,0.7190569744597249,0.6444007858546169,0.6424361493123772,509
+IRCC accounts - sign in and register,0.6895161290322581,0.5551075268817204,0.5510752688172043,744
+Sponsor your family members to immigrate to Canada,0.66,0.5822222222222222,0.5555555555555556,450
+"Contact Immigration, Refugees and Citizenship Canada",0.642495784148398,0.554806070826307,0.5598650927487352,593
+Apply for a permanent resident travel document,0,1,1,1
+Apply for a start-up visa,0,1,1,1
+Travel to Canada for business,0,1,0.6666666666666666,3
+Apply through the Post-graduation work permit program,0,1,0.6,5
+Pensions and retirement,0,1,0,2
+Check the status of a passport application,0,0.7777777777777778,0.5906432748538012,171
+Work in Canada,0,0.75,0.625,8
+Immigrate to Canada,0,0.75,0.5,8
+Find out if you need to give your fingerprints and photo (biometrics) and where to do that,0,0.7391304347826086,0.782608695652174,46
+Apply for a new Canadian passport,0,0.7296511627906976,0.6511627906976745,344
+Find a designated learning institution,0,0.7053571428571429,0.6964285714285714,112
+Hire a foreign worker,0,0.6764705882352942,0.6176470588235294,68
+
+
+#=================================================================
+# Task success (last 12 mos)
+# Report suite: GC
+"# Date: Apr 1, 2024 - Mar 31, 2025"
+"# Segments: TSS Survey Data - Reason of Visit - Lead Department (v120c) equals any of IRCC, Survey Data - TSS - Exclude 'I started this survey before I finished my visit', Survey Data - TSS - Exclude testing"
+#=================================================================
+
+
+##############################################
+# Last 12 months
+##############################################
+,Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling),Survey Data - TSS - Institution (Sampling)
+,Survey Data - Effectiveness - % able to complete the purpose of their visit,Survey Data - Ease - % who said it was easy or very easy to do what they needed to do online,Survey Data - Satisfaction - % satisfied or very satisfied,Survey Data - GC Task Success Survey Completed / Données du sondage - Sondage sur la réussite de tâches du GC terminé (e120)
+Month,0.7722092092534485,0.6217891113369967,0.597953280986825,203643
+2024-04-01,0.7298900366544485,0.5745418193935354,0.5575474841719427,15005
+2024-05-01,0.7765974066552102,0.6147476956725512,0.5919387595688174,12802
+2024-06-01,0.7548200080895241,0.6089389240932992,0.5889847647296751,14834
+2024-07-01,0.7623040466642362,0.6147283995625228,0.5789281808239154,13715
+2024-08-01,0.7489099080968672,0.5971691151807875,0.5787884886295029,14907
+2024-09-01,0.7726543209876543,0.6159259259259259,0.5921604938271605,16200
+2024-10-01,0.7727765726681128,0.6158712942877802,0.5863159797541576,11064
+2024-11-01,0.7683219610816275,0.631223148850139,0.5957164518574678,15828
+2024-12-01,0.7860109289617486,0.6346448087431694,0.6043715846994535,18300
+2025-01-01,0.7888861926716816,0.6350400388255277,0.6132411227048451,24726
+2025-02-01,0.7884659852934376,0.6423253017620126,0.6249826573555936,21623
+2025-03-01,0.7864767238930152,0.6403668980072243,0.6199115223832136,24639
+
+
+#=================================================================
+# Contact us & Help Centre (same)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC - EN & FR, Public Traffic"
+#=================================================================
+
+
+##############################################
+# Pages leading to Contact us (same)
+##############################################
+,% of visits that click on Contact Us link in footer (min 1K visits)
+Page URL (v12),0.00263915471118998
+www.canada.ca/fr/immigration-refugies-citoyennete/services/passeports-canadiens/centre-aide.html,0.07717678100263853
+www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/help-centre.html,0.07603524916166264
+www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/client-support-centre.html,0.05536984801919757
+www.canada.ca/fr/immigration-refugies-citoyennete/organisation/contactez-ircc/centre-soutien-clientele.html,0.054182792497767196
+ircc.canada.ca/english/helpcentre/index-featured-int.asp,0.0403611258629846
+
+
+##############################################
+# Pages leading to Help Centre (same)
+##############################################
+,% of visits that click on Help Centre link in footer (min 1K visits)
+Page URL (v12),0.0009367465958003084
+www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc.html,0.021534311467859727
+www.canada.ca/fr/immigration-refugies-citoyennete/organisation/contactez-ircc.html,0.014016043897056631
+www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/client-support-centre.html,0.013623542289395024
+www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/help-centre.html,0.012555564220541215
+www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/international-experience-canada.html,0.010295434198746643
+
+
+#=================================================================
+# News (updated)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+"# Segments: IRCC, Public Traffic"
+#=================================================================
+
+
+##############################################
+# Top news products by type (E/F)
+##############################################
+,Visits
+Segments,644489
+News releases (E/F),530237
+Backgrounders (E/F),35529
+Web notices (E/F),24573
+Statements (E/F),23803
+Media advisories (E/F),18662
+Speeches (E/F),11682
+Readouts (E/F),3
+
+
+##############################################
+# Top news products (EN)
+##############################################
+,IRCC news
+,Visits
+Page URL (v12),833639
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/02/canada-announces-2025-express-entry-category-based-draws-plans-for-more-in-canada-draws-to-reduce-labour-shortages.html,223953
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/update-2025-parents-grandparents-program.html,143305
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/03/canada-takes-action-to-support-housing-with-new-immigration-measures.html,68629
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/supplementary-immigration-levels-2025-2027.html,44693
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/changes-open-work-permits-family-members-temporary-residents.html,44067
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/01/canada-launches-rural-and-francophone-community-immigration-pilots.html,28126
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/change-health-insurance-requirement-makes-super-visa-more-accessible.html,21891
+www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html,21279
+www.canada.ca/en/immigration-refugees-citizenship/news/2024/12/canada-takes-action-to-reduce-fraud-in-express-entry-system.html,18474
+www.canada.ca/en/immigration-refugees-citizenship/news/2024/06/canada-announces-new-pilot-programs-to-support-caregivers-and-canadian-families.html,16868
+
+
+##############################################
+# Top news products (FR)
+##############################################
+,IRCC news (FR)
+,Visits
+Page URL (v12),139509
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/02/le-canada-annonce-des-tirages-au-sort-par-categorie-pour-entree-express-2025-et-en-prevoit-dautres-pour-les-personnes-se-trouvant-au-canada-afin-de.html,27847
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/01/le-canada-lance-le-programme-pilote-dimmigration-dans-les-communautes-rurales-et-le-programme-pilote-dimmigration-dans-les-communautes-francophones.html,27708
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/03/le-canada-prend-de-nouvelles-mesures-en-matiere-dimmigration-afin-dappuyer-le-secteur-du-logement.html,14051
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/avis/mise-jour-programme-parents-grands-parents-2025.html,7280
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/video/autorisation-voyage-electronique-vous-devez-savoir.html,6478
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/avis/renseignements-supplementaires-niveaux-immigration-2025-2027.html,5537
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/video/ne-gaspillez-temps-envoyez-demande-complete.html,5365
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2024/10/plan-des-niveaux-dimmigration-2025-2027.html,4357
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2023/06/les-voyageurs-admissibles-de-13nouveaux-pays-maintenant-dispenses-de-lobligation-de-visa-pour-entrer-au-canada.html,4021
+www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/avis/changements-apportes-permis-travail-ouverts-membres-famille-residents-temporaires.html,3992
+
+
+##############################################
+# Top news releases
+##############################################
+,news releases
+,IRCC news E/F
+,Visits
+Page URL (v12),445100
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/02/canada-announces-2025-express-entry-category-based-draws-plans-for-more-in-canada-draws-to-reduce-labour-shortages.html,223953
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/03/canada-takes-action-to-support-housing-with-new-immigration-measures.html,68629
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/01/canada-launches-rural-and-francophone-community-immigration-pilots.html,28126
+www.canada.ca/en/immigration-refugees-citizenship/news/2024/12/canada-takes-action-to-reduce-fraud-in-express-entry-system.html,18474
+www.canada.ca/en/immigration-refugees-citizenship/news/2024/06/canada-announces-new-pilot-programs-to-support-caregivers-and-canadian-families.html,16868
+
+
+##############################################
+# Top statements
+##############################################
+,statements
+,IRCC news E/F
+,Visits
+Page URL (v12),19144
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/03/canada-to-request-a-further-extension-to-maintain-first-generation-limit-to-canadian-citizenship-by-descent.html,10358
+www.canada.ca/en/immigration-refugees-citizenship/news/2025/03/strengthening-immigration-and-stopping-fraud.html,6712
+www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/statement-from-minister-fraser-concerning-the-supreme-courts-decision-on-the-safe-third-country-agreement.html,963
+www.canada.ca/en/immigration-refugees-citizenship/news/2024/01/canada-will-not-appeal-decision-that-strikes-down-first-generation-limit-to-canadian-citizenship-by-descent.html,415
+www.canada.ca/en/immigration-refugees-citizenship/news/2024/04/minister-miller-issues-statement-on-international-student-allocations-for-provinces-and-territories.html,232
+
+
+##############################################
+# Top web notices
+##############################################
+,IRCC web notices E/F
+,Visits
+Page URL (v12),311689
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/update-2025-parents-grandparents-program.html,143305
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/supplementary-immigration-levels-2025-2027.html,44693
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/changes-open-work-permits-family-members-temporary-residents.html,44067
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/change-health-insurance-requirement-makes-super-visa-more-accessible.html,21891
+www.canada.ca/en/immigration-refugees-citizenship/news/notices/new-rules-strengthen-temporary-resident-document-cancellations-border-security-integrity.html,16146
+
+
+#=================================================================
+# Special measures (updated)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+#=================================================================
+
+
+##############################################
+# Total traffic to special measures content
+##############################################
+,Visits
+Segments,205008
+Special measures content,205008
+
+
+##############################################
+# Top special measures content
+##############################################
+,Special measures content
+,Visits
+Page URL (v12),178735
+www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html,47370
+www.canada.ca/en/immigration-refugees-citizenship/services/iran.html,35444
+www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/ukraine-open-work-permit-march-31.html,17683
+www.canada.ca/fr/immigration-refugies-citoyennete/services/haiti-2024-fr.html,14748
+www.canada.ca/en/immigration-refugees-citizenship/services/special-measures/situations-abroad.html,10849
+www.canada.ca/en/immigration-refugees-citizenship/services/haiti-2024.html,9388
+www.canada.ca/fr/immigration-refugies-citoyennete/services/haiti-2024-fr/canada-rt-mesures.html,8925
+www.canada.ca/en/immigration-refugees-citizenship/services/israel-west-bank-gaza-2023.html,8031
+www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/ukraine-open-work-permit.html,7121
+www.canada.ca/en/immigration-refugees-citizenship/services/lebanon-2023.html,5800
+
+
+##############################################
+# Key metric summary Data
+##############################################
+,% of IRCC traffic to special measures,% of IRCC traffic to special measures
+,% of IRCC traffic to special measures,Month before
+Day,0.007884083118836954,0.01032189539285361
+2025-03-01,0.028903515691189444,0.010264747229617762
+2025-03-02,0.013490263960199363,0.011552142317199289
+2025-03-03,0.010276480727678824,0.009024040456598817
+2025-03-04,0.008063913691353801,0.00909430319712446
+2025-03-05,0.007213231322516905,0.008411317298502708
+2025-03-06,0.008192348843922087,0.008411031579038655
+2025-03-07,0.007370586587966653,0.008581978704024237
+2025-03-08,0.00783405530992269,0.010276714708357082
+2025-03-09,0.008340770180256623,0.011004537579692646
+2025-03-10,0.006968397146884314,0.008910864129176896
+2025-03-11,0.006793726110452089,0.008262273182678392
+2025-03-12,0.006660082418115596,0.007994177108478188
+2025-03-13,0.006884295007647937,0.008017084271360213
+2025-03-14,0.007023501467384688,0.0072934267669620065
+2025-03-15,0.008116724998863659,0.00959972893204576
+2025-03-16,0.008714750037176179,0.01122512175210427
+2025-03-17,0.007001594723310082,0.009844645259563424
+2025-03-18,0.006229980458913355,0.008529517240490727
+2025-03-19,0.0058077007906905025,0.008801916013915929
+2025-03-20,0.005863396802666477,0.008610305887063874
+2025-03-21,0.0054905649644052925,0.009400413035467922
+2025-03-22,0.007205099612585789,0.011350720847927551
+2025-03-23,0.008054104669140864,0.012343251122113739
+2025-03-24,0.007014410061341284,0.00961875893773633
+2025-03-25,0.005885819779945279,0.009558925899816358
+2025-03-26,0.00636550895462608,0.00856154062003097
+2025-03-27,0.006516102336952204,0.025586634284460338
+2025-03-28,0.00648400896858584,0.01611673621391323
+2025-03-29,0.007718122640494806,0
+2025-03-30,0.008535917390553144,0
+2025-03-31,0.006725895464751704,0
+
+
+#=================================================================
+# Campaigns (updated)
+# Report suite: GC
+"# Date: Mar 1, 2025 - Mar 31, 2025"
+#=================================================================
+
+
+##############################################
+# Top campaign landing pages
+##############################################
+,IRCC campaigns (E/F)
+,Visits
+Page URL (v12),708139
+www.canada.ca/fr/immigration-refugies-citoyennete/campagnes/choisir-canada.html,247425
+www.canada.ca/en/immigration-refugees-citizenship/campaigns/newcomer-services.html,110104
+www.canada.ca/en/immigration-refugees-citizenship/campaigns/choose-canada.html,109230
+www.canada.ca/en/immigration-refugees-citizenship/campaigns/francophone-immigration-outside-quebec/francophone-immigration-express-entry.html,30571
+www.canada.ca/en/immigration-refugees-citizenship/campaigns/claiming-asylum.html,22777
+
+
+##############################################
+# Top UTM campaigns
+##############################################
+,Visits
+UTM Campaign (visit expiry) (v31),822227
+ircc-ircc-express-entry-24-25,357802
+ircc-ircc-newcomer-services,205878
+ircc-ircc-newcomer-services-24-25,138105
+ircc-ircc-operational-pressures,77925
+ircc-ircc-safe-and-orderly-migration,33086
+
+
